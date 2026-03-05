@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "No Fake Talk",
+  "base_artist": "FAKE TYPE.",
+  "createdAt": "2026-03-05T05:46:10.245699Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Fake Talk feat. TOOBOE",
+      "artist": "FAKE TYPE.",
+      "has_synced": false,
+      "path": "select/pl_01_No_Fake_Talk_feat._TOOBOE_FAKE_TYPE..txt"
+    }
+  ]
+}
